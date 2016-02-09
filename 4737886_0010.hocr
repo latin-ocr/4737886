@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737886_0010.png"; bbox 0 0 1899 3126; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 373 1168 1465 1246">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 373 1168 1465 1246">
+     <span class='ocr_line' id='line_1_1' title="bbox 373 1168 1465 1246; baseline 0.001 -17"><span class='ocrx_word' id='word_1_1' title='bbox 373 1187 487 1242; x_wconf 75' lang='grc' dir='ltr'>Μηδὲ</span> <span class='ocrx_word' id='word_1_2' title='bbox 517 1189 624 1243; x_wconf 72' lang='grc' dir='ltr'><strong>δίκην</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 655 1189 816 1242; x_wconf 73' lang='grc' dir='ltr'><strong>δικάσῃς</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 845 1168 934 1246; x_wconf 75' lang='grc' dir='ltr'><strong>πρὶνΙ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 960 1176 1099 1245; x_wconf 68' lang='grc' dir='ltr'>ἀμφοῖν</span> <span class='ocrx_word' id='word_1_6' title='bbox 1131 1191 1253 1242; x_wconf 76' lang='grc' dir='ltr'><strong>μῦθον</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1285 1192 1465 1243; x_wconf 77' lang='grc' dir='ltr'><strong>ἀκούσῃς.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 877 1297 1336 1341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 877 1297 1336 1341">
+     <span class='ocr_line' id='line_1_2' title="bbox 877 1297 1336 1341; baseline 0 -9"><span class='ocrx_word' id='word_1_8' title='bbox 877 1297 1071 1332; x_wconf 82' lang='lat' dir='ltr'><strong>Mantissa</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1094 1307 1204 1341; x_wconf 85' lang='lat' dir='ltr'>prov.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1230 1297 1278 1332; x_wconf 89' lang='lat'><strong>11.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1304 1298 1336 1332; x_wconf 84' lang='lat'><strong>6.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
